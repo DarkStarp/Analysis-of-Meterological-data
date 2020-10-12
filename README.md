@@ -3,3 +3,10 @@ One type of data that’s easier to find on the net is Weather data. Many sites 
  Dataset
 (Source URL: https://www.kaggle.com/muthuj7/weather-dataset)
 We will be performing some basic tasks to perform our analysis such as data cleaning ,data normalizing ,testing the hypothesis and finally inferring certain information.
+
+
+## Link For Blog !!
+
+https://medium.com/@dev9893186747/analysis-of-meteorological-data-9ea8cee6e443
+
+
